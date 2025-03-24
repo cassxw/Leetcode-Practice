@@ -23,8 +23,8 @@ Leetcode-Practice/
 ---
 
 ## 📅 Daily Practice Routine
-✅ Solve the **Leetcode daily challenge** and save it in `daily/` folder.  
-✅ Follow **Leetcode topic roadmaps** and add topic-wise solutions in `topics/`.  
+✅ Solve the **Leetcode daily challenge** and save it in `Daily/` folder.  
+✅ Follow **Leetcode topic roadmaps** and add topic-wise solutions in `Topics/`.  
 ✅ Commit & push progress **every day** to maintain consistency.  
 
 ### 🔄 Example Workflow
