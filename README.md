@@ -1,46 +1,52 @@
-# 🚀 Leetcode Practice Tracker
+# 🚀 Leetcode Practice Repository
 
-This repository contains my daily Leetcode solutions, organised by date and topic. My goal is to solve at least **one problem every day** and follow structured Leetcode topic roadmaps.
-
----
-
-## 📂 Folder Structure
+This repository is my personal **Leetcode Practice Hub**, where I commit solutions to Leetcode problems **daily** and follow structured **topic-based** problem-solving roadmaps. The goal is to **improve consistency, track progress, and reinforce concepts** through active problem-solving.
 
 ---
 
-## 🎯 How I Solve Problems
-
-1. Read the problem statement carefully.
-2. Identify the **key topics** and choose an appropriate approach.
-3. Implement the solution in Python/Java.
-4. Optimise time & space complexity.
-5. Add explanations in `solutions.md`.
-
----
-
-## 📌 Topics Covered
-- [x] Arrays
-- [x] Strings
-- [x] Dynamic Programming
-- [x] Graphs
-- [x] Binary Search
-- [x] Recursion
-- [x] Bit Manipulation
+## 📂 Repository Structure
+```
+Leetcode-Practice/
+│── README.md  
+│── Daily/                   # Daily Leetcode practice solutions
+│   ├── YYYY-MM-DD_problem-name.py
+│   ├── YYYY-MM-DD_problem-name.java
+│── Topics/                  # Problems categorised by topic
+│   ├── Arrays/
+│   │   ├── 001_Two-Sum.py
+│   │   ├── 217_Contains-Duplicate.java
+│   ├── Dynamic Programming/
+│   │   ├── 053_Maximum-Subarray.py
+│   │   ├── 300_Longest-Increasing-Subsequence.java
+```
 
 ---
 
-## 📖 Solution Index
-Check out `solutions.md` for a full list of problems, categorised by topic.
+## 📅 Daily Practice Routine
+✅ Solve the **Leetcode daily challenge** and save it in `daily/` folder.  
+✅ Follow **Leetcode topic roadmaps** and add topic-wise solutions in `topics/`.  
+✅ Commit & push progress **every day** to maintain consistency.  
+
+### 🔄 Example Workflow
+```bash
+git add .
+git commit -m "Solve daily problem: 217_Contains-Duplicate"
+git push
+```
 
 ---
 
-## 🚀 Running the Code
+## 🎯 Goals
+- 🔥 Maintain a **daily coding streak**.
+- 📚 Master **DSA topics systematically**.
+- 🚀 Improve **problem-solving speed & efficiency**.
 
-To run a solution:
-```sh
-python topics/arrays/001_Two-Sum.py
+---
 
-Or in Java:
-```sh
-javac topics/dp/300_Longest-Increasing-Subsequence.java
-java topics.dp.LongestIncreasingSubsequence
+## 🤝 Contributions
+This is a personal learning repository, but feel free to fork it and use the structure for your own Leetcode journey!
+
+---
+
+## 🏆 Keep Grinding!
+Coding every day builds habits. Keep pushing and improving! 💪🚀
