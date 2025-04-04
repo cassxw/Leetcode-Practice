@@ -9,8 +9,8 @@ This repository is my personal **Leetcode Practice Hub**, where I commit solutio
 Leetcode-Practice/
 │── README.md  
 │── Daily/                   # Daily Leetcode practice solutions
-│   ├── YYYY-MM-DD_problem-name.py
-│   ├── YYYY-MM-DD_problem-name.java
+│   ├── ####_problem-name.py
+│   ├── ####_problem-name.java
 │── Topics/                  # Problems categorised by topic
 │   ├── Arrays/
 │   │   ├── 001_Two-Sum.py
@@ -36,9 +36,9 @@ git push
 
 ---
 
-## 🎯 Goals
+## 🎯 My Goals
 - 🔥 Maintain a **daily coding streak**.
-- 📚 Master **DSA topics systematically**.
+- 📚 Master/Revise **DSA topics systematically**.
 - 🚀 Improve **problem-solving speed & efficiency**.
 
 ---
@@ -47,6 +47,3 @@ git push
 This is a personal learning repository, but feel free to fork it and use the structure for your own Leetcode journey!
 
 ---
-
-## 🏆 Keep Grinding!
-Coding every day builds habits. Keep pushing and improving! 💪🚀
