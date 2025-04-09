@@ -30,7 +30,7 @@ Leetcode-Practice/
 ### 🔄 Example Workflow
 ```bash
 git add .
-git commit -m "Solve daily problem: 217_Contains-Duplicate"
+git commit -m "Solve daily: 217_Contains-Duplicate"
 git push
 ```
 
